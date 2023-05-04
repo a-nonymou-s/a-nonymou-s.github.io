@@ -7,11 +7,8 @@
   - [General Information](#general-information)
   - [Technologies Used](#technologies-used)
   - [Features](#features)
-  - [Screenshots](#screenshots)
   - [Setup](#setup)
   - [Usage](#usage)
-  - [Project Status](#project-status)
-  - [Room for Improvement](#room-for-improvement)
   - [Acknowledgements](#acknowledgements)
   - [Contact](#contact)
   - [License](#license)
@@ -20,7 +17,7 @@
 
 
 ## General Information
-- A personal portfolio site to share the projects build by Mikheltodd in the Full Stack Path from Codecademy. 
+- A personal portfolio site to share the projects build by Anony in the Full Stack Path from Codecademy. 
 - Project Objectives:
     * Build a website using HTML, CSS
     * Add interactive feature using JS
@@ -45,7 +42,7 @@
 
 ## Setup
 
-Navigate to the website using a web browser: https://mikheltodd.github.io/MyPersonalPortfolio/
+Navigate to the website using a web browser: https://a-nonymou-s.github.io/personal-portfolio/
 
 
 ## Usage
